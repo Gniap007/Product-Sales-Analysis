@@ -72,8 +72,6 @@ Supporting analysis is available in the Pivot Tables sheet.
 | Product Category      | Pillows drive volume. Frames deliver strong margin per unit. Soft & Medium mattresses outperform Extra Soft. | Prioritize Soft/Medium inventory. Review Extra Soft performance. |
 | Brand                 | Lux Bed leads in both sales and margin (~33.6%). Only Beds has high volume but lowest margin (~25%). | Protect and promote Lux Bed. Examine Only Beds discounting and cost structure. |
 | Promotion Impact      | Full Price avg margin ≈ $96/unit. Promo avg margin ≈ $70/unit.         | Use promotions selectively. Avoid deep discounts on high-margin items. |
-| Seasonality           | Strong peak in November–December. Weakest months are May–June.         | Align inventory, staffing, and marketing with seasonal peaks. |
-
 ---
 
 ## Tools & Techniques Used
@@ -119,7 +117,8 @@ Supporting analysis is available in the Pivot Tables sheet.
 ---
 
 ## Author
-## Min_Swam_Htet_Paing<img width="581" height="334" alt="Screenshot 2026-08-12 054157" src="https://github.com/user-attachments/assets/dc58ee03-61f2-40ab-ad86-6db4425dd639" />
+## Min_Swam_Htet_Paing
+<img width="581" height="334" alt="Screenshot 2026-08-12 054157" src="https://github.com/user-attachments/assets/dc58ee03-61f2-40ab-ad86-6db4425dd639" />
 
 
 Data Analysis Project – Head Rest Bed Company Sales Performance
